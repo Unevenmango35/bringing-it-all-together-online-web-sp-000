@@ -40,4 +40,12 @@ attr_reader :id
         self
       end
 
+      def.create(name:, breed:)
+        dog = Dog.new(name,breed)
+        dog.save
+        dog
+      end
+
+      
+
 end
