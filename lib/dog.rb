@@ -39,5 +39,5 @@ attr_reader :id
         end
         self
       end
-  
+
 end
