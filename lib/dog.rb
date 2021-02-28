@@ -46,6 +46,6 @@ attr_reader :id
         dog
       end
 
-      
+
 
 end
